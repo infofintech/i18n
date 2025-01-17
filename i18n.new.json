@@ -1,0 +1,1226 @@
+{
+    "AD": {
+        "Continent":"Europe"
+    },
+    "AE": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 75.1,
+            "Female": 78.4
+        }
+    },
+    "AF": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 63.3,
+            "Female": 63.2
+        }
+    },
+    "AG": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 74.9,
+            "Female": 78.0
+        }
+    },
+    "AL": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 76.3,
+            "Female": 79.9
+        }
+    },
+    "AM": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 72.5,
+            "Female": 79.2
+        }
+    },
+    "AO": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 60.7,
+            "Female": 65.5
+        }
+    },
+    "AR": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 73.5,
+            "Female": 79.5
+        }
+    },
+    "AT": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 79.4,
+            "Female": 83.8
+        }
+    },
+    "AU": {
+        "Continent":"Oceania",
+        "Life Expectancy": {
+            "Male": 81.3,
+            "Female": 84.8
+        }
+    },
+    "AZ": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 68.8,
+            "Female": 74.1
+        }
+    },
+    "BA": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 74.4,
+            "Female": 79.1
+        }
+    },
+    "BB": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 74.3,
+            "Female": 77.7
+        }
+    },
+    "BD": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 73.0,
+            "Female": 75.6
+        }
+    },
+    "BE": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 79.3,
+            "Female": 83.5
+        }
+    },
+    "BF": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 60.1,
+            "Female": 65.2
+        }
+    },
+    "BG": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 71.6,
+            "Female": 78.6
+        }
+    },
+    "BH": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 75.0,
+            "Female": 77.0
+        }
+    },
+    "BI": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 61.5,
+            "Female": 66.1
+        }
+    },
+    "BJ": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 61.2,
+            "Female": 65.7
+        }
+    },
+    "BN": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 73.4,
+            "Female": 75.4
+        }
+    },
+    "BO": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 71.1,
+            "Female": 73.1
+        }
+    },
+    "BR": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 72.4,
+            "Female": 79.4
+        }
+    },
+    "BS": {
+        "Continent":"Oceania",
+        "Life Expectancy": {
+            "Male": 69.9,
+            "Female": 76.6
+        }
+    },
+    "BT": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 72.0,
+            "Female": 74.4
+        }
+    },
+    "BW": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 58.9,
+            "Female": 65.5
+        }
+    },
+    "BY": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 69.7,
+            "Female": 79.6
+        }
+    },
+    "BZ": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 71.4,
+            "Female": 77.8
+        }
+    },
+    "CA": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 80.4,
+            "Female": 84.1
+        }
+    },
+    "CD": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 60.0,
+            "Female": 64.8
+        }
+    },
+    "CF": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 50.2,
+            "Female": 56.3
+        }
+    },
+    "CG": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 63.8,
+            "Female": 65.6
+        }
+    },
+    "CH": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 81.8,
+            "Female": 85.1
+        }
+    },
+    "CI": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 60.5,
+            "Female": 65.8
+        }
+    },
+    "CL": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 78.1,
+            "Female": 83.2
+        }
+    },
+    "CM": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 60.3,
+            "Female": 64.5
+        }
+    },
+    "CN": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 74.7,
+            "Female": 80.5
+        }
+    },
+    "CO": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 76.7,
+            "Female": 81.9
+        }
+    },
+    "CR": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 78.3,
+            "Female": 83.4
+        }
+    },
+    "CU": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 75.4,
+            "Female": 80.3
+        }
+    },
+    "CV": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 69.9,
+            "Female": 79.9
+        }
+    },
+    "CY": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 81.1,
+            "Female": 85.1
+        }
+    },
+    "CZ": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 76.3,
+            "Female": 81.9
+        }
+    },
+    "DE": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 78.7,
+            "Female": 84.8
+        }
+    },
+    "DJ": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 64.1,
+            "Female": 67.8
+        }
+    },
+    "DK": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 79.6,
+            "Female": 83.0
+        }
+    },
+    "DM": {
+        "Continent":"America"
+    },
+    "DO": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 69.8,
+            "Female": 76.2
+        }
+    },
+    "DZ": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 76.2,
+            "Female": 78.1
+        }
+    },
+    "EC": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 76.4,
+            "Female": 80.5
+        }
+    },
+    "EE": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 74.7,
+            "Female": 82.6
+        }
+    },
+    "EG": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 69.6,
+            "Female": 74.1
+        }
+    },
+    "ER": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 61.3,
+            "Female": 67.1
+        }
+    },
+    "ES": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 80.7,
+            "Female": 85.7
+        }
+    },
+    "ET": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 66.9,
+            "Female": 70.5
+        }
+    },
+    "FI": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 79.2,
+            "Female": 84.0
+        }
+    },
+    "FJ": {
+        "Continent":"Oceania",
+        "Life Expectancy": {
+            "Male": 65.9,
+            "Female": 70.3
+        }
+    },
+    "FM": {
+        "Continent":"Oceania",
+        "Life Expectancy": {
+            "Male": 60.3,
+            "Female": 66.0
+        }
+    },
+    "FR": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 79.8,
+            "Female": 85.1
+        }
+    },
+    "GA": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 63.6,
+            "Female": 69.7
+        }
+    },
+    "GB": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 79.8,
+            "Female": 83.0
+        }
+    },
+    "GD": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 70.6,
+            "Female": 75.3
+        }
+    },
+    "GE": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 68.8,
+            "Female": 77.8
+        }
+    },
+    "GH": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 63.7,
+            "Female": 69.2
+        }
+    },
+    "GM": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 63.4,
+            "Female": 67.7
+        }
+    },
+    "GN": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 59.5,
+            "Female": 62.3
+        }
+    },
+    "GQ": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 60.9,
+            "Female": 63.6
+        }
+    },
+    "GR": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 78.6,
+            "Female": 83.6
+        }
+    },
+    "GT": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 69.0,
+            "Female": 75.0
+        }
+    },
+    "GW": {
+        "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 57.4,
+            "Female": 63.0
+        }
+    },
+    "GY": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 62.5,
+            "Female": 69.4
+        }
+    },
+    "HN": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 70.7,
+            "Female": 73.2
+        }
+    },
+    "HR": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 75.5,
+            "Female": 81.6
+        }
+    },
+    "HT": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 63.3,
+            "Female": 64.8
+        }
+    },
+    "HU": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 73.1,
+            "Female": 79.6
+        }
+    },
+    "ID": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 69.4,
+            "Female": 73.3
+        }
+    },
+    "IE": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 80.2,
+            "Female": 83.5
+        }
+    },
+    "IL": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 80.8,
+            "Female": 84.4
+        }
+    },
+    "IN": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 69.5,
+            "Female": 72.2
+        }
+    },
+    "IQ": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 69.9,
+            "Female": 75.0
+        }
+    },
+    "IR": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 75.7,
+            "Female": 79.1
+        }
+    },
+    "IS": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 80.8,
+            "Female": 83.9
+        }
+    },
+    "IT": {
+        "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 80.9,
+            "Female": 84.9
+        }
+    },
+    "JM": {
+        "Continent":"America",
+        "Life Expectancy": {
+            "Male": 74.4,
+            "Female": 77.7
+        }
+    },
+    "JO": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 77.0,
+            "Female": 78.8
+        }
+    },
+    "JP": {
+        "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 81.5,
+            "Female": 86.9
+        }
+    },
+    "KE": {
+        "HDI": {
+            "2019":0.581
+        },
+        "Continent":"Africa"
+    },
+    "KG": {
+        "HDI": {
+            "2019":0.698
+        },
+        "Continent":"Asia"
+    },
+    "KH": {
+        "HDI": {
+            "2019":0.598
+        },
+        "Continent":"Asia"
+    },
+    "KI": {
+        "HDI": {
+            "2019":0.63
+        },
+        "Continent":"Oceania"
+    },
+    "KM": {
+        "HDI": {
+            "2019":0.56
+        },
+        "Continent":"Africa"
+    },
+    "KN": {
+        "HDI": {
+            "2019":0.783
+        },
+        "Continent":"America"
+    },
+    "KR": {
+        "HDI": {
+            "2019":0.923
+        },
+        "Continent":"Asia"
+    },
+    "KW": {
+        "HDI": {
+            "2019":0.839
+        },
+        "Continent":"Asia"
+    },
+    "KZ": {
+        "HDI": {
+            "2019":0.819
+        },
+        "Continent":"Asia"
+    },
+    "LA": {
+        "HDI": {
+            "2019":0.62
+        },
+        "Continent":"Asia"
+    },
+    "LB": {
+        "HDI": {
+            "2019":0.745
+        },
+        "Continent":"Asia"
+    },
+    "LC": {
+        "HDI": {
+            "2019":0.735
+        },
+        "Continent":"America"
+    },
+    "LI": {
+        "HDI": {
+            "2019":0.94
+        },
+        "Continent":"Europe"
+    },
+    "LK": {
+        "HDI": {
+            "2019":0.778
+        },
+        "Continent":"Asia"
+    },
+    "LR": {
+        "HDI": {
+            "2019":0.487
+        },
+        "Continent":"Africa"
+    },
+    "LS": {
+        "HDI": {
+            "2019":0.521
+        },
+        "Continent":"Africa"
+    },
+    "LT": {
+        "HDI": {
+            "2019":0.884
+        },
+        "Continent":"Europe"
+    },
+    "LU": {
+        "HDI": {
+            "2019":0.927
+        },
+        "Continent":"Europe"
+    },
+    "LV": {
+        "HDI": {
+            "2019":0.871
+        },
+        "Continent":"Europe"
+    },
+    "LY": {
+        "HDI": {
+            "2019":0.746
+        },
+        "Continent":"Africa"
+    },
+    "MA": {
+        "HDI": {
+            "2019":0.682
+        },
+        "Continent":"Africa"
+    },
+    "MD": {
+        "HDI": {
+            "2019":0.774
+        },
+        "Continent":"Europe"
+    },
+    "ME": {
+        "HDI": {
+            "2019":0.837
+        },
+        "Continent":"Europe"
+    },
+    "MG": {
+        "HDI": {
+            "2019":0.51
+        },
+        "Continent":"Africa"
+    },
+    "MH": {
+        "HDI": {
+            "2019":0.64
+        },
+        "Continent":"Oceania"
+    },
+    "MK": {
+        "HDI": {
+            "2019":0.784
+        },
+        "Continent":"Europe"
+    },
+    "ML": {
+        "HDI": {
+            "2019":0.433
+        },
+        "Continent":"Africa"
+    },
+    "MM": {
+        "HDI": {
+            "2019":0.598
+        },
+        "Continent":"Asia"
+    },
+    "MN": {
+        "HDI": {
+            "2019":0.746
+        },
+        "Continent":"Asia"
+    },
+    "MR": {
+        "HDI": {
+            "2019":0.563
+        },
+        "Continent":"Africa"
+    },
+    "MT": {
+        "HDI": {
+            "2019":0.915
+        },
+        "Continent":"Europe"
+    },
+    "MU": {
+        "HDI": {
+            "2019":0.817
+        },
+        "Continent":"Africa"
+    },
+    "MV": {
+        "HDI": {
+            "2019":0.755
+        },
+        "Continent":"Asia"
+    },
+    "MW": {
+        "HDI": {
+            "2019":0.519
+        },
+        "Continent":"Africa"
+    },
+    "MX": {
+        "HDI": {
+            "2019":0.779
+        },
+        "Continent":"America"
+    },
+    "MY": {
+        "HDI": {
+            "2019":0.81
+        },
+        "Continent":"Asia"
+    },
+    "MZ": {
+        "HDI": {
+            "2019":0.456
+        },
+        "Continent":"Africa"
+    },
+    "NA": {
+        "HDI": {
+            "2019":0.639
+        },
+        "Continent":"Africa"
+    },
+    "NE": {
+        "HDI": {
+            "2019":0.406
+        },
+        "Continent":"Africa"
+    },
+    "NG": {
+        "HDI": {
+            "2019":0.538
+        },
+        "Continent":"Africa"
+    },
+    "NI": {
+        "HDI": {
+            "2019":0.664
+        },
+        "Continent":"America"
+    },
+    "NL": {
+        "HDI": {
+            "2019":0.943
+        },
+        "Continent":"Europe"
+    },
+    "NO": {
+        "HDI": {
+            "2019":0.961
+        },
+        "Continent":"Europe"
+    },
+    "NP": {
+        "HDI": {
+            "2019":0.611
+        },
+        "Continent":"Asia"
+    },
+    "NR": {
+        "HDI": {
+            "2019":0.696
+        },
+        "Continent":"Oceania"
+    },
+    "NZ": {
+        "HDI": {
+            "2019":0.937
+        },
+        "Continent":"Oceania"
+    },
+    "OM": {
+        "HDI": {
+            "2019":0.839
+        },
+        "Continent":"Asia"
+    },
+    "PA": {
+        "HDI": {
+            "2019":0.817
+        },
+        "Continent":"America"
+    },
+    "PE": {
+        "HDI": {
+            "2019":0.78
+        },
+        "Continent":"America"
+    },
+    "PG": {
+        "HDI": {
+            "2019":0.56
+        },
+        "Continent":"Oceania"
+    },
+    "PH": {
+        "HDI": {
+            "2019":0.718
+        },
+        "Continent":"Asia"
+    },
+    "PK": {
+        "HDI": {
+            "2019":0.546
+        },
+        "Continent":"Asia"
+    },
+    "PL": {
+        "HDI": {
+            "2019":0.881
+        },
+        "Continent":"Europe"
+    },
+    "PT": {
+        "HDI": {
+            "2019":0.867
+        },
+        "Continent":"Europe"
+    },
+    "PW": {
+        "HDI": {
+            "2019":0.776
+        },
+        "Continent":"Oceania"
+    },
+    "PY": {
+        "HDI": {
+            "2019":0.732
+        },
+        "Continent":"America"
+    },
+    "QA": {
+        "HDI": {
+            "2019":0.859
+        },
+        "Continent":"Asia"
+    },
+    "RO": {
+        "HDI": {
+            "2019":0.832
+        },
+        "Continent":"Europe"
+    },
+    "RS": {
+        "HDI": {
+            "2019":0.811
+        },
+        "Continent":"Europe"
+    },
+    "RU": {
+        "HDI": {
+            "2019":0.845
+        },
+        "Continent":"Europe"
+    },
+    "RW": {
+        "HDI": {
+            "2019":0.534
+        },
+        "Continent":"Africa"
+    },
+    "SA": {
+        "HDI": {
+            "2019":0.873
+        },
+        "Continent":"Asia"
+    },
+    "SB": {
+        "HDI": {
+            "2019":0.567
+        },
+        "Continent":"Oceania"
+    },
+    "SC": {
+        "HDI": {
+            "2019":0.802
+        },
+        "Continent":"Africa"
+    },
+    "SD": {
+        "HDI": {
+            "2019":0.514
+        },
+        "Continent":"Africa"
+    },
+    "SE": {
+        "HDI": {
+            "2019":0.947
+        },
+        "Continent":"Europe"
+    },
+    "SG": {
+        "HDI": {
+            "2019":0.943
+        },
+        "Continent":"Asia"
+    },
+    "SI": {
+        "HDI": {
+            "2019":0.921
+        },
+        "Continent":"Europe"
+    },
+    "SK": {
+        "HDI": {
+            "2019":0.862
+        },
+        "Continent":"Europe"
+    },
+    "SL": {
+        "HDI": {
+            "2019":0.48
+        },
+        "Continent":"Africa"
+    },
+    "SM": {
+        "HDI": {
+            "2019":0.862
+        },
+        "Continent":"Europe"
+    },
+    "SN": {
+        "HDI": {
+            "2019":0.513
+        },
+        "Continent":"Africa"
+    },
+    "SO": {
+        "HDI": {
+            "2019":0.38
+        },
+        "Continent":"Africa"
+    },
+    "SR": {
+        "HDI": {
+            "2019":0.755
+        },
+        "Continent":"Africa"
+    },
+    "SS": {
+        "HDI": {
+            "2019":0.393
+        },
+        "Continent":"Africa"
+    },
+    "ST": {
+        "HDI": {
+            "2019":0.622
+        },
+        "Continent":"America"
+    },
+    "SV": {
+        "HDI": {
+            "2019":0.683
+        },
+        "Continent":"America"
+    },
+    "SY": {
+        "HDI": {
+            "2019":0.584
+        },
+        "Continent":"Asia"
+    },
+    "SZ": {
+        "HDI": {
+            "2019":0.615
+        },
+        "Continent":"Africa"
+    },
+    "TD": {
+        "HDI": {
+            "2019":0.403
+        },
+        "Continent":"Africa"
+    },
+    "TG": {
+        "HDI": {
+            "2019":0.535
+        },
+        "Continent":"Africa"
+    },
+    "TH": {
+        "HDI": {
+            "2019":0.804
+        },
+        "Continent":"Asia"
+    },
+    "TJ": {
+        "HDI": {
+            "2019":0.676
+        },
+        "Continent":"Asia"
+    },
+    "TL": {
+        "HDI": {
+            "2019":0.614
+        },
+        "Continent":"Asia"
+    },
+    "TM": {
+        "HDI": {
+            "2019":0.742
+        },
+        "Continent":"Asia"
+    },
+    "TN": {
+        "HDI": {
+            "2019":0.745
+        },
+        "Continent":"Africa"
+    },
+    "TO": {
+        "HDI": {
+            "2019":0.744
+        },
+        "Continent":"Oceania"
+    },
+    "TR": {
+        "HDI": {
+            "2019":0.842
+        },
+        "Continent":"Asia"
+    },
+    "TT": {
+        "HDI": {
+            "2019":0.821
+        },
+        "Continent":"America"
+    },
+    "TV": {
+        "HDI": {
+            "2019":0.635
+        },
+        "Continent":"Oceania"
+    },
+    "TZ": {
+        "HDI": {
+            "2019":0.548
+        },
+        "Continent":"Africa"
+    },
+    "UA": {
+        "HDI": {
+            "2019":0.786
+        },
+        "Continent":"Europe"
+    },
+    "UG": {
+        "HDI": {
+            "2019":0.525
+        },
+        "Continent":"Africa"
+    },
+    "US": {
+        "HDI": {
+            "2019":0.93
+        },
+        "Continent":"America"
+    },
+    "UY": {
+        "HDI": {
+            "2019":0.821
+        },
+        "Continent":"America"
+    },
+    "UZ": {
+        "HDI": {
+            "2019":0.726
+        },
+        "Continent":"Asia"
+    },
+    "VC": {
+        "HDI": {
+            "2019":0.769
+        },
+        "Continent":"America"
+    },
+    "VE": {
+        "HDI": {
+            "2019":0.721
+        },
+        "Continent":"America"
+    },
+    "VN": {
+        "HDI": {
+            "2019":0.703
+        },
+        "Continent":"Asia"
+    },
+    "VU": {
+        "HDI": {
+            "2019":0.611
+        },
+        "Continent":"Africa"
+    },
+    "WS": {
+        "HDI": {
+            "2019":0.715
+        },
+        "Continent":"Oceania"
+    },
+    "YE": {
+        "HDI": {
+            "2019":0.461
+        },
+        "Continent":"Asia"
+    },
+    "ZA": {
+        "HDI": {
+            "2019":0.736
+        },
+        "Continent":"Africa"
+    },
+    "ZM": {
+        "HDI": {
+            "2019":0.575
+        },
+        "Continent":"Africa"
+    },
+    "ZW": {
+        "HDI": {
+            "2019":0.601
+        },
+        "Continent":"Africa"
+    }
+}
