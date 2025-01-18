@@ -1057,6 +1057,14 @@
     },
     "MT": {
         "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 79.9,
+            "Female": 83.8
+        },
+        "School Years": {
+            "Average": 12.2,
+            "Expected": 15.9
+        },
         "Gross National Income": 57710
     },
     "MU": {
