@@ -12,7 +12,6 @@
     },
     "AF": {
         "Continent":"Asia",
-        "Title": "Afghanistan",
         "Life Expectancy": {
             "Male": 63.3,
             "Female": 63.2
@@ -735,589 +734,410 @@
         "Life Expectancy": {
             "Male": 79.3,
             "Female": 83.9
-        }
+        },
+        "Gross National Income": 61730
     },
     "KZ": {
         "Continent":"Asia",
         "Life Expectancy": {
             "Male": 70.0,
             "Female": 77.6
-        }
+        },
+        "Gross National Income": 34680
     },
     "LA": {
         "Continent":"Asia",
         "Life Expectancy": {
             "Male": 66.2,
             "Female": 70.9
-        }
+        },
+        "Gross National Income": 8610
     },
     "LB": {
         "Continent":"Asia",
         "Life Expectancy": {
             "Male": 74.0,
             "Female": 79.2
-        }
+        },
+        "Gross National Income": 11800
     },
     "LC": {
         "Continent":"America",
         "Life Expectancy": {
             "Male": 71.3,
             "Female": 77.7
-        }
+        },
+        "Gross National Income": 23670
     },
     "LI": {
         "Continent":"Europe"
     },
     "LK": {
-        "HDI": {
-            "2019":0.778
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 13990
     },
     "LR": {
-        "HDI": {
-            "2019":0.487
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 1680
     },
     "LS": {
-        "HDI": {
-            "2019":0.521
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 3500
     },
     "LT": {
-        "HDI": {
-            "2019":0.884
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 51160
     },
     "LU": {
-        "HDI": {
-            "2019":0.927
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 93600
     },
     "LV": {
-        "HDI": {
-            "2019":0.871
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 42690
     },
     "LY": {
-        "HDI": {
-            "2019":0.746
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 13910
     },
     "MA": {
-        "HDI": {
-            "2019":0.682
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 9700
     },
     "MD": {
-        "HDI": {
-            "2019":0.774
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 17880
     },
     "ME": {
-        "HDI": {
-            "2019":0.837
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 32060
     },
     "MG": {
-        "HDI": {
-            "2019":0.51
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 1780
     },
     "MH": {
-        "HDI": {
-            "2019":0.64
-        },
-        "Continent":"Oceania"
+        "Continent":"Oceania",
+        "Gross National Income": 9000
     },
     "MK": {
-        "HDI": {
-            "2019":0.784
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 24990
     },
     "ML": {
-        "HDI": {
-            "2019":0.433
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 2530
     },
     "MM": {
-        "HDI": {
-            "2019":0.598
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 5840
     },
     "MN": {
-        "HDI": {
-            "2019":0.746
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 16030
     },
     "MR": {
-        "HDI": {
-            "2019":0.563
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 6950
     },
     "MT": {
-        "HDI": {
-            "2019":0.915
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 57710
     },
     "MU": {
-        "HDI": {
-            "2019":0.817
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 30230
     },
     "MV": {
-        "HDI": {
-            "2019":0.755
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 21840
     },
     "MW": {
-        "HDI": {
-            "2019":0.519
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 1780
     },
     "MX": {
-        "HDI": {
-            "2019":0.779
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 24720
     },
     "MY": {
-        "HDI": {
-            "2019":0.81
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 5840
     },
     "MZ": {
-        "HDI": {
-            "2019":0.456
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 1530
     },
     "NA": {
-        "HDI": {
-            "2019":0.639
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 10700
     },
     "NE": {
-        "HDI": {
-            "2019":0.406
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 1820
     },
     "NG": {
-        "HDI": {
-            "2019":0.538
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 6020
     },
     "NI": {
-        "HDI": {
-            "2019":0.664
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 7890
     },
     "NL": {
-        "HDI": {
-            "2019":0.943
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 80080
     },
     "NO": {
-        "HDI": {
-            "2019":0.961
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 109260
     },
     "NP": {
-        "HDI": {
-            "2019":0.611
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 5460
     },
     "NR": {
-        "HDI": {
-            "2019":0.696
-        },
-        "Continent":"Oceania"
+        "Continent":"Oceania",
+        "Gross National Income": 23550
     },
     "NZ": {
-        "HDI": {
-            "2019":0.937
-        },
-        "Continent":"Oceania"
+        "Continent":"Oceania",
+        "Gross National Income": 52120
     },
     "OM": {
-        "HDI": {
-            "2019":0.839
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 40480
     },
     "PA": {
-        "HDI": {
-            "2019":0.817
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 37880
     },
     "PE": {
-        "HDI": {
-            "2019":0.78
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 16070
     },
     "PG": {
-        "HDI": {
-            "2019":0.56
-        },
-        "Continent":"Oceania"
+        "Continent":"Oceania",
+        "Gross National Income": 4350
     },
     "PH": {
-        "HDI": {
-            "2019":0.718
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 12200
     },
     "PK": {
-        "HDI": {
-            "2019":0.546
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 5930
     },
     "PL": {
-        "HDI": {
-            "2019":0.881
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 47450
     },
     "PT": {
-        "HDI": {
-            "2019":0.867
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 47620
     },
     "PW": {
-        "HDI": {
-            "2019":0.776
-        },
-        "Continent":"Oceania"
+        "Continent":"Oceania",
+        "Gross National Income": 16550
     },
     "PY": {
-        "HDI": {
-            "2019":0.732
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 16960
     },
     "QA": {
-        "HDI": {
-            "2019":0.859
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 125240
     },
     "RO": {
-        "HDI": {
-            "2019":0.832
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 46590
     },
     "RS": {
-        "HDI": {
-            "2019":0.811
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 28090
     },
     "RU": {
-        "HDI": {
-            "2019":0.845
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 43530
     },
     "RW": {
-        "HDI": {
-            "2019":0.534
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 3330
     },
     "SA": {
-        "HDI": {
-            "2019":0.873
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 61440
     },
     "SB": {
-        "HDI": {
-            "2019":0.567
-        },
-        "Continent":"Oceania"
+        "Continent":"Oceania",
+        "Gross National Income": 2860
     },
     "SC": {
-        "HDI": {
-            "2019":0.802
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 32450
     },
     "SD": {
-        "HDI": {
-            "2019":0.514
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 2720
     },
     "SE": {
-        "HDI": {
-            "2019":0.947
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 71780
     },
     "SG": {
-        "HDI": {
-            "2019":0.943
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 118760
     },
     "SI": {
-        "HDI": {
-            "2019":0.921
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 54950
     },
     "SK": {
-        "HDI": {
-            "2019":0.862
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 43500
     },
     "SL": {
-        "HDI": {
-            "2019":0.48
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 3340
     },
     "SM": {
-        "HDI": {
-            "2019":0.862
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 69360
     },
     "SN": {
-        "HDI": {
-            "2019":0.513
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 4630
     },
     "SO": {
-        "HDI": {
-            "2019":0.38
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 1550
     },
     "SR": {
-        "HDI": {
-            "2019":0.755
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 19180
     },
     "SS": {
-        "HDI": {
-            "2019":0.393
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 1010
     },
     "ST": {
-        "HDI": {
-            "2019":0.622
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 6210
     },
     "SV": {
-        "HDI": {
-            "2019":0.683
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 11860
     },
     "SY": {
-        "HDI": {
-            "2019":0.584
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 4610
     },
     "SZ": {
-        "HDI": {
-            "2019":0.615
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 10460
     },
     "TD": {
-        "HDI": {
-            "2019":0.403
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 1840
     },
     "TG": {
-        "HDI": {
-            "2019":0.535
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 3080
     },
     "TH": {
-        "HDI": {
-            "2019":0.804
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 22940
     },
     "TJ": {
-        "HDI": {
-            "2019":0.676
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 6230
     },
     "TL": {
-        "HDI": {
-            "2019":0.614
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 5620
     },
     "TM": {
-        "HDI": {
-            "2019":0.742
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 19670
     },
     "TN": {
-        "HDI": {
-            "2019":0.745
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 13560
     },
     "TO": {
-        "HDI": {
-            "2019":0.744
-        },
-        "Continent":"Oceania"
+        "Continent":"Oceania",
+        "Gross National Income": 7760
     },
     "TR": {
-        "HDI": {
-            "2019":0.842
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 44160
     },
     "TT": {
-        "HDI": {
-            "2019":0.821
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 35840
     },
     "TV": {
-        "HDI": {
-            "2019":0.635
-        },
-        "Continent":"Oceania"
+        "Continent":"Oceania",
+        "Gross National Income": 8320
     },
     "TZ": {
-        "HDI": {
-            "2019":0.548
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 3940
     },
     "UA": {
-        "HDI": {
-            "2019":0.786
-        },
-        "Continent":"Europe"
+        "Continent":"Europe",
+        "Gross National Income": 18120
     },
     "UG": {
-        "HDI": {
-            "2019":0.525
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 3040
     },
     "US": {
-        "HDI": {
-            "2019":0.93
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 82340
     },
     "UY": {
-        "HDI": {
-            "2019":0.821
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 31980
     },
     "UZ": {
-        "HDI": {
-            "2019":0.726
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 11020
     },
     "VC": {
-        "HDI": {
-            "2019":0.769
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 20210
     },
     "VE": {
-        "HDI": {
-            "2019":0.721
-        },
-        "Continent":"America"
+        "Continent":"America",
+        "Gross National Income": 16910
     },
     "VN": {
-        "HDI": {
-            "2019":0.703
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 14190
     },
     "VU": {
-        "HDI": {
-            "2019":0.611
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 3940
     },
     "WS": {
-        "HDI": {
-            "2019":0.715
-        },
-        "Continent":"Oceania"
+        "Continent":"Oceania",
+        "Gross National Income": 6890
     },
     "YE": {
-        "HDI": {
-            "2019":0.461
-        },
-        "Continent":"Asia"
+        "Continent":"Asia",
+        "Gross National Income": 3020
     },
     "ZA": {
-        "HDI": {
-            "2019":0.736
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 14990
     },
     "ZM": {
-        "HDI": {
-            "2019":0.575
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 3880
     },
     "ZW": {
-        "HDI": {
-            "2019":0.601
-        },
-        "Continent":"Africa"
+        "Continent":"Africa",
+        "Gross National Income": 3770
     }
 }
