@@ -273,6 +273,10 @@
             "Male": 81.8,
             "Female": 85.1
         },
+        "School Years": {
+            "Average": 13.9,
+            "Expected": 13.3
+        },
         "Gross National Income": 90000
     },
     "CI": {
