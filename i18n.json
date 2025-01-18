@@ -1037,6 +1037,14 @@
     },
     "MK": {
         "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 72.8,
+            "Female": 76.9
+        },
+        "School Years": {
+            "Average": 9.6,
+            "Expected": 11.0
+        },
         "Gross National Income": 24990
     },
     "ML": {
