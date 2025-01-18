@@ -1141,6 +1141,14 @@
     },
     "NZ": {
         "Continent":"Oceania",
+        "Life Expectancy": {
+            "Male": 80.4,
+            "Female": 83.5
+        },
+        "School Years": {
+            "Average": 12.9,
+            "Expected": 19.7
+        },
         "Gross National Income": 52120
     },
     "OM": {
