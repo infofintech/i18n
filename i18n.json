@@ -1217,6 +1217,14 @@
     },
     "SM": {
         "Continent":"Europe",
+        "Life Expectancy": {
+            "Male": 83.2,
+            "Female": 87.0
+        },
+        "School Years": {
+            "Average": 11.23,
+            "Expected": 12.4
+        },
         "Gross National Income": 69360
     },
     "SN": {
