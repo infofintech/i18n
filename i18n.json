@@ -1093,6 +1093,10 @@
             "Male": 69.3,
             "Female": 77.1
         },
+        "School Years": {
+            "Average": 11.8,
+            "Expected": 14.9
+        },
         "Gross National Income": 17880
     },
     "ME": {
