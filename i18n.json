@@ -1409,6 +1409,14 @@
     },
     "SG": {
         "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 81.0,
+            "Female": 85.5
+        },
+        "School Years": {
+            "Average": 11.9,
+            "Expected": 16.9
+        },
         "Gross National Income": 118760
     },
     "SI": {
