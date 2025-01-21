@@ -1325,6 +1325,10 @@
             "Male": 78.6,
             "Female": 84.4
         },
+        "School Years": {
+            "Average": 9.6,
+            "Expected": 16.8
+        },
         "Gross National Income": 47620
     },
     "PW": {
