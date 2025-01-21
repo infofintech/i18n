@@ -1109,10 +1109,22 @@
             "Male": 64.1,
             "Female": 66.6
         },
+        "School Years": {
+            "Average": 5.1,
+            "Expected": 9.4
+        },
         "Gross National Income": 1780
     },
     "MH": {
         "Continent":"Oceania",
+        "Life Expectancy": {
+            "Male": 63.55,
+            "Female": 67.09
+        },
+        "School Years": {
+            "Average": 9.4,
+            "Expected": 16.4
+        },
         "Gross National Income": 9000
     },
     "MK": {
@@ -1129,18 +1141,34 @@
     },
     "ML": {
         "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 62.2,
+            "Female": 63.4
+        },
         "Gross National Income": 2530
     },
     "MM": {
         "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 65.9,
+            "Female": 72.2
+        },
         "Gross National Income": 5840
     },
     "MN": {
         "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 63.8,
+            "Female": 72.8
+        },
         "Gross National Income": 16030
     },
     "MR": {
         "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 68.1,
+            "Female": 68.7
+        },
         "Gross National Income": 6950
     },
     "MT": {
@@ -1157,14 +1185,26 @@
     },
     "MU": {
         "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 71.0,
+            "Female": 77.3
+        },
         "Gross National Income": 30230
     },
     "MV": {
         "Continent":"Asia",
+        "Life Expectancy": {
+            "Male": 78.6,
+            "Female": 80.8
+        },
         "Gross National Income": 21840
     },
     "MW": {
         "Continent":"Africa",
+        "Life Expectancy": {
+            "Male": 62.3,
+            "Female": 68.9
+        },
         "Gross National Income": 1780
     },
     "MX": {
