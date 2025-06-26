@@ -765,14 +765,23 @@
     "DE": {
         "Continent": "Europe",
         "Life Expectancy": {
-            "Male": 78.7,
-            "Female": 84.8
+            "Male": 79.13,
+            "Female": 83.97
         },
         "School Years": {
-            "Average": 14.1,
-            "Expected": 13.3
+            "Average": {
+                "Male": 14.45,
+                "Female": 13.9
+            },
+            "Expected": {
+                "Male": 17.27,
+                "Female": 17.18
+            }
         },
-        "Gross National Income": 73180
+        "Gross National Income": {
+            "Male": 11180,
+            "Female": 10600
+        }
     },
     "DJ": {
         "Continent": "Africa",
@@ -1033,14 +1042,23 @@
     "GR": {
         "Continent": "Europe",
         "Life Expectancy": {
-            "Male": 78.6,
-            "Female": 83.6
+            "Male": 78.71,
+            "Female": 83.86
         },
         "School Years": {
-            "Average": 11.4,
-            "Expected": 13.3
+            "Average": {
+                "Male": 11.45,
+                "Female": 10.81
+            },
+            "Expected": {
+                "Male": 18,
+                "Female": 18
+            }
         },
-        "Gross National Income": 41090
+        "Gross National Income": {
+            "Male": 10480,
+            "Female": 10070
+        }
     },
     "GT": {
         "Continent": "America",
@@ -1117,38 +1135,65 @@
     "IE": {
         "Continent": "Europe",
         "Life Expectancy": {
-            "Male": 80.2,
-            "Female": 83.5
+            "Male": 80.48,
+            "Female": 84.04
         },
         "School Years": {
-            "Average": 11.6,
-            "Expected": 13.9
+            "Average": {
+                "Male": 11.37,
+                "Female": 11.79
+            },
+            "Expected": {
+                "Male": 18,
+                "Female": 18
+            }
         },
-        "Gross National Income": 97370
+        "Gross National Income": {
+            "Male": 11340,
+            "Female": 10860
+        }
     },
     "IL": {
         "Continent": "Asia",
         "Life Expectancy": {
-            "Male": 80.8,
-            "Female": 84.4
+            "Male": 80.87,
+            "Female": 84.66
         },
         "School Years": {
-            "Average": 13.3,
-            "Expected": 13.8
+            "Average": {
+                "Male": 13.3,
+                "Female": 13.38
+            },
+            "Expected": {
+                "Male": 14.24,
+                "Female": 15.35
+            }
         },
-        "Gross National Income": 53100
+        "Gross National Income": {
+            "Male": 10760,
+            "Female": 10450
+        }
     },
     "IN": {
         "Continent": "Asia",
         "Life Expectancy": {
-            "Male": 69.5,
-            "Female": 72.2
+            "Male": 69.53,
+            "Female": 72.4
         },
         "School Years": {
-            "Average": 6.7,
-            "Expected": 11.1
+            "Average": {
+                "Male": 7.601,
+                "Female": 5.03
+            },
+            "Expected": {
+                "Male": 11.24,
+                "Female": 11.48
+            }
         },
-        "Gross National Income": 10020
+        "Gross National Income": {
+            "Male": 9242,
+            "Female": 7835
+        }
     },
     "IQ": {
         "Continent": "Asia",
@@ -1177,38 +1222,65 @@
     "IS": {
         "Continent": "Europe",
         "Life Expectancy": {
-            "Male": 80.8,
-            "Female": 83.9
+            "Male": 80.89,
+            "Female": 83.95
         },
         "School Years": {
-            "Average": 13.8,
-            "Expected": 13.5
+            "Average": {
+                "Male": 13.58,
+                "Female": 13.88
+            },
+            "Expected": {
+                "Male": 17.16,
+                "Female": 18
+            }
         },
-        "Gross National Income": 79750
+        "Gross National Income": {
+            "Male": 11080,
+            "Female": 10780
+        }
     },
     "IT": {
         "Continent": "Europe",
         "Life Expectancy": {
-            "Male": 80.9,
-            "Female": 84.9
+            "Male": 81.36,
+            "Female": 85.6
         },
         "School Years": {
-            "Average": 10.7,
-            "Expected": 13.3
+            "Average": {
+                "Male": 10.81,
+                "Female": 10.51
+            },
+            "Expected": {
+                "Male": 16.03,
+                "Female": 16.76
+            }
         },
-        "Gross National Income": 58420
+        "Gross National Income": {
+            "Male": 10940,
+            "Female": 10320
+        }
     },
     "JM": {
         "Continent": "America",
         "Life Expectancy": {
-            "Male": 74.4,
-            "Female": 77.7
+            "Male": 69.67,
+            "Female": 73.87
         },
         "School Years": {
-            "Average": 9.2,
-            "Expected": 11.4
+            "Average": {
+                "Male": 8.531,
+                "Female": 9.745
+            },
+            "Expected": {
+                "Male": 11.48,
+                "Female": 13.63
+            }
         },
-        "Gross National Income": 11250
+        "Gross National Income": {
+            "Male": 9393,
+            "Female": 8980
+        }
     },
     "JO": {
         "Continent": "Asia",
@@ -1225,14 +1297,23 @@
     "JP": {
         "Continent": "Asia",
         "Life Expectancy": {
-            "Male": 81.5,
-            "Female": 86.9
+            "Male": 81.38,
+            "Female": 87.43
         },
         "School Years": {
-            "Average": 13.4,
-            "Expected": 13.6
+            "Average": {
+                "Male": 13.01,
+                "Female": 12.34
+            },
+            "Expected": {
+                "Male": 15.47,
+                "Female": 15.41
+            }
         },
-        "Gross National Income": 53080
+        "Gross National Income": {
+            "Male": 10930,
+            "Female": 10350
+        }
     },
     "KE": {
         "Continent": "Africa",
