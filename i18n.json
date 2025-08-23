@@ -572,14 +572,23 @@
     "CA": {
         "Continent": "America",
         "Life Expectancy": {
-            "Male": 80.4,
-            "Female": 84.1
+            "Male": 80.28,
+            "Female": 84.42
         },
         "School Years": {
-            "Average": 13.8,
-            "Expected": 16
+            "Average": {
+                "Male": 13.75,
+                "Female": 13.92
+            },
+            "Expected": {
+                "Male": 15.46,
+                "Female": 16.43
+            }
         },
-        "Gross National Income": 60800
+        "Gross National Income": {
+            "Male": 10970,
+            "Female": 10580
+        } 							
     },
     "CD": {
         "Continent": "Africa",
