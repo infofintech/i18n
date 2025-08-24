@@ -2,14 +2,23 @@
     "AD": {
         "Continent": "Europe",
         "Life Expectancy": {
-            "Male": 79.4,
-            "Female": 85.7
+            "Male": 81.1,
+            "Female": 86.9
         },
         "School Years": {
-            "Average": 11.3,
-            "Expected": 11.9
+            "Average": {
+                "Male": 12,
+                "Female": 12
+            },
+            "Expected": {
+                "Male": 14,
+                "Female": 14
+            }
         },
-        "Gross National Income": 75250
+        "Gross National Income": {
+            "Male": 11440,
+            "Female": 11030
+        }
     },
     "AE": {
         "Continent": "Asia",
